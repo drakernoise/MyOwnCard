@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">MyOwnCard</string>
+    <string name="background_image_of_a_farm">Background Image of a farm</string>
+    <string name="event_location">Event Location</string>
+    <string name="event_schedule">Event Schedule</string>
+    <string name="feria_internacional_ganadera">Feria Internacional Ganadera</string>
 </resources>
