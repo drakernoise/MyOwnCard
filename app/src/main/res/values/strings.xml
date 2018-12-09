@@ -3,5 +3,6 @@
     <string name="background_image_of_a_farm">Background Image of a farm</string>
     <string name="event_location">Event Location</string>
     <string name="event_schedule">Event Schedule</string>
-    <string name="feria_internacional_ganadera">Feria Internacional Ganadera</string>
+    <string name="feria">Feria Internacional Ganadera</string>
+    <string name="Horario">Aquí pondré lo que me dé la gana</string>
 </resources>
