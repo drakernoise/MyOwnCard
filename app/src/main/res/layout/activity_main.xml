@@ -25,16 +25,24 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
-            android:text="@string/feria" />
+            android:text="@string/feria"
+            android:textColor="#ffffff"
+            android:fontFamily="sans-serif"
+            android:textSize="25sp"
+            android:gravity="center"/>
+
     </RelativeLayout>
 
     <TextView
         android:id="@+id/Schedule"
-        android:layout_width="wrap_content"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
         android:padding="50dp"
-        android:text="@string/Horario" />
+        android:text="@string/Horario"
+        android:textSize="25sp"
+        android:background="@android:color/holo_orange_light"
+        />
 
     <ImageView
         android:id="@+id/Map"

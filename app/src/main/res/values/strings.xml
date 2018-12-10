@@ -3,6 +3,6 @@
     <string name="background_image_of_a_farm">Background Image of a farm</string>
     <string name="event_location">Event Location</string>
     <string name="event_schedule">Event Schedule</string>
-    <string name="feria">Feria Internacional Ganadera</string>
-    <string name="Horario">Aquí pondré lo que me dé la gana</string>
+    <string name="feria">II Feria Internacional Ganadera \n Madrid (Spain)</string>
+    <string name="Horario">10,11,12 January 2019 \n IFEMA Madrid (Spain)</string>
 </resources>
